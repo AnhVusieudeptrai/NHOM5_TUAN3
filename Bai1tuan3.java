@@ -12,7 +12,7 @@ public class Bai1tuan3 {
        
 
 
-    
+    gjv
 
    
         Scanner scanner = new Scanner(System.in);
