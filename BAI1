@@ -10,10 +10,6 @@ public class Bai1tuan3 {
 
     public static void main(String[] args) {
        
-
-
-
-   
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhap so: ");
         int so = scanner.nextInt();
